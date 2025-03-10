@@ -21,3 +21,9 @@ Importance: Artificial Intelligence has been found to provide a more accurate as
 <b>Results</b>: The Random Forests model had a 0.22% misclassification rate on the bootstrap sample training set and a 0.04% misclassification rate on the bootstrap sample testing set. 
 
 <b>Conclusion and Relevance</b>: This adaptation of the Random Forests technique satisfied the requirements of its’ application as demonstrated by the low misclassification rate in evaluation of the sample training set and sample testing set. In future application, the Random Forest Importance Plot output may be used as feedback for the students – providing the keywords vital to making the distinction between each NYHA Classification
+
+## 💻 Technology
+
+- Python
+- [Rstudio][rstudio]
+- [Jupyter][jupyter]
